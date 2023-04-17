@@ -1,0 +1,7 @@
+/build/
+/bin/
+.logs
+.idea
+/cmake-build-debug
+/imgui.ini
+/pb
